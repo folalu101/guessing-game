@@ -1,18 +1,19 @@
 // Create a Guessing game. Let users guess a number.
 
+
 const number = 100;
 
-let guessNum = (prompt("guess a number"));
+let guessNum = parseInt(prompt("Let see how smart you are mate. Now guess the right number"));
 // if statement of the correct number
-if ( guessNum === 100){
+if (guessNum ===number){
     alert("Gracious, Obrigados gringo !!!")
 }
-// elseif of the wrong number
+// elseif < number
 else if (guessNum < number){
     alert("try again mate: the number is greater than" +   " the number you guessed mate !")
     
 }
-// another else if > number
+// another else > number
 else if(guessNum > number){
     alert("No way this is outragious mate LOL ! come down")
     
