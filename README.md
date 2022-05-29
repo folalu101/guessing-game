@@ -3,15 +3,15 @@
 *this game is about guessing the right number
 *while there will be a prompt if correct, less than the number and greater than the 
 
->Table of content
-.Write an if statement
-.Write else if statement
-.Write else statement
-.declear a variable
-.declear a constant number
+># Table of content<br>
+1.Write an if statement<br>
+2.Write else if statement<br>
+3.Write else statement<br>
+4.declear a variable<br>
+5.declear a constant <br>
 
 
-#List  
+# List  
 1. html
 2. javascript
 3. css
